@@ -35,3 +35,26 @@
 
 # Vertical Layout on background music on 
 ![home-page-light](https://github.com/kkb-mmmut/csb-slhyiw/blob/gh-pages/Screenshots/3.png)
+
+# Music Interface on playing song
+![home-page-light](https://github.com/kkb-mmmut/csb-slhyiw/blob/gh-pages/Screenshots/1.png)
+
+# On entering into Settings 
+![home-page-light](https://github.com/kkb-mmmut/csb-slhyiw/blob/gh-pages/Screenshots/7.png)
+
+# Music Menu 
+![home-page-light](https://github.com/kkb-mmmut/csb-slhyiw/blob/gh-pages/Screenshots/4.png)
+
+# Changing Theme Settings
+![home-page-light](https://github.com/kkb-mmmut/csb-slhyiw/blob/gh-pages/Screenshots/3.png)
+
+# Changing Wheel Colour
+![home-page-light](https://github.com/kkb-mmmut/csb-slhyiw/blob/gh-pages/Screenshots/6.png)
+
+# Changing Wallpaper settings
+![home-page-light](https://github.com/kkb-mmmut/csb-slhyiw/blob/gh-pages/Screenshots/10.png)
+
+## Overall Design
+
+# The Final Product 
+![home-page-light](https://github.com/kkb-mmmut/csb-slhyiw/blob/gh-pages/Screenshots/11.png) 
