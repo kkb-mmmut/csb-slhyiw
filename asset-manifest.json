@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://kkb-mmmut.github.io/csb-slhyiw/static/css/main.cd96decb.chunk.css",
-    "main.js": "https://kkb-mmmut.github.io/csb-slhyiw/static/js/main.395badbe.chunk.js",
-    "main.js.map": "https://kkb-mmmut.github.io/csb-slhyiw/static/js/main.395badbe.chunk.js.map",
+    "main.js": "https://kkb-mmmut.github.io/csb-slhyiw/static/js/main.fdec216f.chunk.js",
+    "main.js.map": "https://kkb-mmmut.github.io/csb-slhyiw/static/js/main.fdec216f.chunk.js.map",
     "runtime-main.js": "https://kkb-mmmut.github.io/csb-slhyiw/static/js/runtime-main.436c7b22.js",
     "runtime-main.js.map": "https://kkb-mmmut.github.io/csb-slhyiw/static/js/runtime-main.436c7b22.js.map",
     "static/css/2.8bc8be0e.chunk.css": "https://kkb-mmmut.github.io/csb-slhyiw/static/css/2.8bc8be0e.chunk.css",
@@ -28,6 +28,6 @@
     "static/css/2.8bc8be0e.chunk.css",
     "static/js/2.97dac734.chunk.js",
     "static/css/main.cd96decb.chunk.css",
-    "static/js/main.395badbe.chunk.js"
+    "static/js/main.fdec216f.chunk.js"
   ]
 }
