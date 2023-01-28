@@ -1,6 +1,9 @@
 # csb-slhyiw
 # mini-Ipod
-## https://kkb-mmmut.github.io/csb-slhyiw/
+
+##Deployments
+    # https://kkb-mmmut.github.io/csb-slhyiw/
+    # https://csb-slhyiw.netlify.app/
 
 ## Created Using
     React Js
@@ -25,3 +28,9 @@
     5-To navigate between a menu items you need to rotate on track wheel
     6-To go to next menu or go inside a menu press center button and to go to previous menu press menu button
     7-Songs do play and Please checkout settings menu
+## Screenshots
+# Horizontal Layout
+https://github.com/kkb-mmmut/csb-slhyiw/blob/gh-pages/Screenshots/2.png?raw=true
+
+# Vertical Layout on background music on 
+https://github.com/kkb-mmmut/csb-slhyiw/blob/gh-pages/Screenshots/3.png?raw=true
