@@ -1,0 +1,11 @@
+/* container resides in the settings*/
+.settings{
+    width: 135px;
+    height: 200px;
+    background-color: #E3F2FD;
+    text-align: justify;
+}
+ 
+li{
+    padding-left: 5px;
+}

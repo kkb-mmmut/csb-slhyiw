@@ -1,0 +1,52 @@
+/* whole navigation bar */
+.bar{
+    margin-top: -1px;
+    display: flex;
+    width: 270px;
+    height: 20px;
+    align-items: center; 
+    min-height: 20px;
+    border-radius: 8px;
+    background-color: #E3F2FD;
+    border-bottom: 1px solid black;
+
+}
+ 
+.heading{
+    margin: 1px 5px;
+    padding: 0px;
+}
+ 
+.time{ 
+   margin: 0px;
+   padding:0px;  
+   color:red;
+   margin-top:-50px;
+   font-size: 1rem;
+   margin: auto; 
+   
+} 
+.battery{
+    width: 22px;
+    height: 20px;
+} 
+.right-container-nav{
+    display: flex;
+    flex-direction: row;
+    margin-left: 15px;
+} 
+.play-pause-nav{
+    font-size: 15px;
+    margin: 0px;
+    margin-right: 8px;
+    padding: 0px;
+    text-align: center;
+    color: #039BE5;
+} 
+.notification{
+    color: #039BE5;
+    margin: 1px;
+    margin:auto;
+    padding: 0px;
+    text-align: center;
+}

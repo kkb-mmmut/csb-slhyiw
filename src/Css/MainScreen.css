@@ -1,0 +1,44 @@
+.upper-div-lockscreen{
+    margin: 30px;
+}
+.lock-display{
+    margin: 30px;
+    color:rgb(242, 238, 14);
+}
+/* time */
+.lockscreen-time{ 
+   margin: 20px;
+   padding:0px;  
+   color:rgb(57, 5, 5);
+   margin-top:-50px;
+   font-size: 3rem;
+   margin: auto;
+}
+
+/* battery icon */
+.battery{
+    width: 22px;
+    height: 20px;
+
+}
+
+/*   battery and play pause icon */
+.right-container-nav{
+    display: flex;
+    flex-direction: row;
+    margin-left: 15px;
+}
+
+ 
+
+/* notification */
+.notification{
+    color: #039BE5;
+    margin: 1px;
+    margin:auto;
+    padding: 0px;
+    text-align: center;
+}
+.bottom-div-lock{
+    color:white;
+}
